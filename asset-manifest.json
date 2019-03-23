@@ -1,0 +1,16 @@
+{
+  "main.css": "/quote_machine/static/css/main.dfd237eb.chunk.css",
+  "main.js": "/quote_machine/static/js/main.94c950e3.chunk.js",
+  "main.js.map": "/quote_machine/static/js/main.94c950e3.chunk.js.map",
+  "runtime~main.js": "/quote_machine/static/js/runtime~main.6b12df4c.js",
+  "runtime~main.js.map": "/quote_machine/static/js/runtime~main.6b12df4c.js.map",
+  "static/css/2.8766bdf0.chunk.css": "/quote_machine/static/css/2.8766bdf0.chunk.css",
+  "static/js/2.fe28cdb7.chunk.js": "/quote_machine/static/js/2.fe28cdb7.chunk.js",
+  "static/js/2.fe28cdb7.chunk.js.map": "/quote_machine/static/js/2.fe28cdb7.chunk.js.map",
+  "index.html": "/quote_machine/index.html",
+  "precache-manifest.9b256154353ae0e70e7970d68b8c4f44.js": "/quote_machine/precache-manifest.9b256154353ae0e70e7970d68b8c4f44.js",
+  "service-worker.js": "/quote_machine/service-worker.js",
+  "static/css/2.8766bdf0.chunk.css.map": "/quote_machine/static/css/2.8766bdf0.chunk.css.map",
+  "static/css/main.dfd237eb.chunk.css.map": "/quote_machine/static/css/main.dfd237eb.chunk.css.map",
+  "static/media/font-awesome.min.css": "/quote_machine/static/media/fontawesome-webfont.fee66e71.woff"
+}
